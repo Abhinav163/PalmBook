@@ -15,5 +15,4 @@ function modes(){
     document.getElementById("tag").style.color="White";
     document.getElementById("tag").style.backgroundColor="black";
     document.getElementById("nav").style.backgroundColor="black";
-    // alert("Please wait")
 }
